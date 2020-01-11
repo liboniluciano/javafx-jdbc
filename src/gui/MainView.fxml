@@ -15,12 +15,12 @@
                 <Menu mnemonicParsing="false" text="Registration">
                   <items>
                     <MenuItem mnemonicParsing="false" onAction="#onMenuItemSellerAction" text="Seller" />
-                        <MenuItem  mnemonicParsing="false" onAction="#onMenuItemDepartmentAction" text="Department" />
+                        <MenuItem mnemonicParsing="false" onAction="#onMenuItemDepartmentAction" text="Department" />
                   </items>
                 </Menu>
                 <Menu mnemonicParsing="false" text="Help">
                   <items>
-                    <MenuItem  mnemonicParsing="false" onAction="#onMenuItemAboutAction" text="About" />
+                    <MenuItem mnemonicParsing="false" onAction="#onMenuItemAboutAction" text="About" />
                   </items>
                 </Menu>
               </menus>
